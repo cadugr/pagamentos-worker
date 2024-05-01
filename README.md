@@ -9,7 +9,7 @@ Para inicializar o projeto, basta fazê-lo através de sua IDE preferida ou atra
 
 Se tudo der certo, e houver dados a serem consumidos da fila pagamento-request-queue, os mesmos serão consumidos e enviados ou para a fila pagamento-response-sucesso-queue ou pagamento-response-erro-queue.  Por fim, os dados enviados para uma destas duas filas, serão consumidos no outro projeto, a saber:
 
-* [Backend API](http://localhost:15672/#/)
+* [Backend API](https://github.com/cadugr/backend-api)
 
 Créditos totais e referência:
 
